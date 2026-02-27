@@ -18,7 +18,7 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 # ClassRoomAssignment:[Live](https://rajit8674.github.io/gfg-Assignments/ClassRoomAssignment/)
 
 ##
-📌 Learning Goals
+ Learning Goals
 ✔ Strengthen MERN Stack skills
 ✔ Learn real-world project structure
 ✔ Write clean & maintainable code
