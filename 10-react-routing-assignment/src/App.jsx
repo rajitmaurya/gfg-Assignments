@@ -6,7 +6,9 @@ import NotFound from "./components/NotFound";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter
+      basename={import.meta.env.PROD ? "/react-routing-assignment" : ""}
+    >
       <nav>
         <Link to="/">Home</Link> |
         <Link to="/about">About</Link> |
@@ -22,5 +24,3 @@ function App() {
     </BrowserRouter>
   );
 }
-
-export default App;
