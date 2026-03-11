@@ -3,7 +3,7 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 ##  Live Demo
 
 - 1.HTML BASICS ASSIGMENT : [Live ](https://rajitmaurya.github.io/gfg-Assignments/01-HTML-Basics-Assignment/)
-- 2.HTML FORMS ASSIGMENT : [Live ](https://rajitmaurya.github.io/gfg-Assignments/02HTML-Forms-Assignment/)
+- 2.HTML FORMS ASSIGMENT : [Live ](https://rajitmaurya.github.io/gfg-Assignments/02-HTML-Forms-Assignment/)
 - 3.CSS STYLING ASSIGNMENT ASSIGMENT : [Live ](https://rajitmaurya.github.io/gfg-Assignments/03-CSS-Styling-Assignment/)
 - 4.CSS-LAYOUT-ASSIGNMENT :[Live ](https://rajitmaurya.github.io/gfg-Assignments/04-CSS-Layout-Assignment/)
 - 5.JS-BASICS-ASSIGNMENT:[Live ](https://rajitmaurya.github.io/gfg-Assignments/05-JavaScript-Basics-Assignment/)
