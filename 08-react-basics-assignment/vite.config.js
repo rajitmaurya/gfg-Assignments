@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/gfg-Assignments/react-basics-assignment/dist/"
+  base: "/gfg-Assignments/08-react-basics-assignment/dist/"
 });
