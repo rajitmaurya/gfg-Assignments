@@ -26,5 +26,17 @@ This repository contains all the assignments, practice tasks, and mini-projects 
 ✔ Practice Git & GitHub workflow
 
 
-Thanks to GeeksforGeeks for providing structured training, assignments, and guidance throughout the MERN stack course.
+
+## 💡 About Me
+
+I am a passionate web developer currently learning full-stack development and building real-world projects.
+
+---
+
+## 📌 Goal
+
+To become a skilled MERN Stack Developer and build scalable web applications.
+
+
+## Thanks to GeeksforGeeks for providing structured training, assignments, and guidance throughout the MERN stack course.
 
